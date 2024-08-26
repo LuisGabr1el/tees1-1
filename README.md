@@ -7,6 +7,8 @@ Aqui deve ter um outro texto explicativo
 ### Contato?
 fabricio.araujo@ufra.edu.br
 
+---Lista de alunos----
+
 *Fabrício Araújo
 
 gabrielffreitas02@gmail.com
