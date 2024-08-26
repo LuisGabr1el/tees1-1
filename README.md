@@ -8,3 +8,5 @@ Aqui deve ter um outro texto explicativo
 fabricio.araujo@ufra.edu.br
 
 *Fabrício Araújo
+
+gabrielffreitas02@gmail.com
